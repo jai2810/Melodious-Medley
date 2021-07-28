@@ -1,5 +1,5 @@
 # Melodious-Medley
-A Machine Learning project for suggesting a new song to a person based on his/her preferences and music taste, and the features of the song as well.
+A Machine Learning model used to suggest a new song to a person based on their preferences and music taste and the features of the songs.
 
 This code implements Random Forest Classification Algorithm
 
